@@ -1,8 +1,10 @@
-﻿//
+//
 //Name: Russell Anderson
 //Course: C# programming
 //Assignment: Lab 4 - create a driver liscense exam using arrays.  Prompt user to answer one question at 
 //      a time.  Display results including how many and which questions were answered corrct/incorrect..
+//Fall 2015
+//
 
 using System;
 using System.Collections.Generic;
@@ -115,11 +117,8 @@ namespace AndersonLab4
                 {
                     btnNext.Text = "Submit Exam";
                 }
-
             }
         }
-       
-            
-        }
-    } 
+    }
+} 
 
